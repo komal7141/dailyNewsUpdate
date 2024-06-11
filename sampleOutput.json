@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Singapore Airlines: More than twenty treated for spinal injuries after turbulence flight",
+        "description": "Most of those hurt after a Singapore Airlines flight hit severe turbulence have spinal injuries, officials say.",
+        "url": "https://www.bbc.co.uk/news/articles/cw55192rd9lo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8a77/live/35cde420-18f3-11ef-baa7-25d483663b8e.jpg",
+        "publishedAt": "2024-05-23T17:52:12.6982925Z",
+        "content": "More than 20 people who were onboard a Singapore Airlines flight hit by severe turbulence are in intensive care with spinal injuries, the head of a Bangkok hospital has said.\r\nA two-year-old child is… [+1376 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Pope clears way for 'God's influencer' to become a saint",
+        "description": "Carlo Acutis, who was born in London, is set to become the first millennial to be canonised.",
+        "url": "https://www.bbc.co.uk/news/articles/cd11kyy58dgo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5cae/live/f27e9c90-191b-11ef-9b6b-6f2320ba1a46.jpg",
+        "publishedAt": "2024-05-23T17:37:10.8697095Z",
+        "content": "As well as designing websites for his parish and school, he became known for launching a website seeking to document every reported Eucharistic miracle, which was launched days before his death.\r\nMr … [+1063 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "China Taiwan: Beijing really doesn't like Taiwan's new president",
+        "description": "China's chorus of condemnation of President Lai, who took office this week, has been unequivocally acerbic.",
+        "url": "https://www.bbc.co.uk/news/articles/cd11n49enz2o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ac18/live/c0bf76e0-18e7-11ef-baa7-25d483663b8e.jpg",
+        "publishedAt": "2024-05-23T16:52:19.5565087Z",
+        "content": "The drills look like a simulation of a full-scale attack on the island, minus the actual landing of troops, Taiwan military expert Chieh Chung says. He thinks the inclusion of all of Taiwans off-shor… [+1980 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Hurricane season in Atlantic to be 'extraordinary'",
+        "description": "There could be up to seven major hurricanes of category three or higher this season, many more than usual.",
+        "url": "https://www.bbc.co.uk/news/articles/cw441ng00wxo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/a9e4/live/885c5cb0-1841-11ef-b29c-db4f2723162a.jpg",
+        "publishedAt": "2024-05-23T15:52:17.9010703Z",
+        "content": "To draw attention to the way that global warming is making the highest intensity storms more likely, a recent study, external explored the possibility of creating a new category six level. \r\nThis \"wo… [+1687 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Cassie posts first statement since Diddy footage emerged",
+        "description": "Footage emerged last week which showed rapper Diddy attacking the singer in 2016.",
+        "url": "https://www.bbc.co.uk/news/articles/clmm2y8x971o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ca4c/live/c1768780-190b-11ef-80aa-699d54c46324.jpg",
+        "publishedAt": "2024-05-23T15:22:19.0888736Z",
+        "content": "In her statement, which was posted to Instagram, Ms Ventura thanked her friends, family and the public for their support.\r\n\"The outpouring of love has created a place for my younger self to settle an… [+998 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Daily cannabis use overtakes drinking for first time in US",
+        "description": "Long-term study shows 2022 was the first year daily or near-daily use of cannabis surpassed daily or near-daily drinking.",
+        "url": "https://www.bbc.co.uk/news/articles/c9xxd8w57kjo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4111/live/068ca200-1907-11ef-80aa-699d54c46324.jpg",
+        "publishedAt": "2024-05-23T15:22:16.6187591Z",
+        "content": "But the study found that, between 1992 and 2022, there was a 15-fold increase in the per capita rate of those who reported daily or near-daily use of cannabis.\r\nLess than one million people said they… [+1110 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Rosenberg: Russian President Putin's military purge echoes Prigozhin's call to act",
+        "description": "Russia's president seems to be acting on the late Wagner chief's warnings, but in his own time.",
+        "url": "https://www.bbc.co.uk/news/articles/c900qz4wll4o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/d817/live/b9ffadd0-18f5-11ef-9b55-076e569e8f32.jpg",
+        "publishedAt": "2024-05-23T13:07:21.8853192Z",
+        "content": "There is a huge irony in all of this.\r\nRemember Yevgeny Prigozhin? A year ago the leader of the Wagner mercenary group had publicly criticised military chiefs. Hed accused senior figures of incompete… [+1443 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Ace-Liam Ankrah: Ghanaian toddler sets record as youngest male artist",
+        "description": "The Ghanaian toddler broke the record at the tender age of one year and 152 days.",
+        "url": "https://www.bbc.co.uk/news/articles/cn00l5ejx8po",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/82dc/live/8634d0b0-1860-11ef-b1ce-2fa28be2f75b.jpg",
+        "publishedAt": "2024-05-23T12:52:19.6979319Z",
+        "content": "Ingenuity hit, and she spread out a stretched canvas on the floor, put some paint on it and let him play with it.\r\n\"He was so intrigued by the bright colours,\" she said warmly. \r\nHis first masterpiec… [+228 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "China holds military drills around Taiwan as 'strong punishment'",
+        "description": "The military manoeuvres come three days after William Lai was sworn in as Taiwan's president.",
+        "url": "https://www.bbc.co.uk/news/articles/cqvv29gpqn1o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/03f6/live/bacf22b0-18bc-11ef-acfd-895c004d08e0.jpg",
+        "publishedAt": "2024-05-23T10:52:17.7293085Z",
+        "content": "China has started two days of military exercises around Taiwan, with its military calling them \"strong punishment\" for the self-ruled island's \"separatist acts\".\r\nThe drills come three days after the… [+1920 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Live Nation: US Department of Justice to sue TicketMaster owner",
+        "description": "Officials are expected to challenge the company's business practices, the BBC's US partner CBS News reported.",
+        "url": "https://www.bbc.co.uk/news/articles/cv22k054z5zo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3821/live/1b0d62e0-18a4-11ef-82b6-e70a812da642.jpg",
+        "publishedAt": "2024-05-23T03:22:13.5000137Z",
+        "content": "The US Justice Department (DOJ) is set to file a competition lawsuit against entertainment giant Live Nation as early as Thursday, multiple sources familiar with the matter confirmed to the BBC's US … [+1328 chars]"
+      }
+    ]
+  }
